@@ -1,0 +1,23 @@
+{
+  "name": "node_express_server_boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LilLakes/Node_express_server_boilerplate.git"
+  },
+  "author": "Francesco Laghetti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LilLakes/Node_express_server_boilerplate/issues"
+  },
+  "homepage": "https://github.com/LilLakes/Node_express_server_boilerplate#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
